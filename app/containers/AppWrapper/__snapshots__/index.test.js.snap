@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppWrapper should render as expected 1`] = `
+<AppLayout
+  appName="Agent Support"
+  appType="internal"
+  feedbackAction={[Function]}
+  feedbackHref=""
+  feedbackLabel="settings.send_feedback_text"
+  feedbackTagId=""
+  homeHref="/agent-support/interactions/"
+  isLinkActive={[Function]}
+  logoutLabel="common.logout_text"
+  navigationLinks={
+    Array [
+      Object {
+        "href": "#new-customer",
+        "icon": "add",
+        "label": "navigation.new_customer_text",
+      },
+      Object {
+        "badgeCount": 0,
+        "href": "/agent-support/interactions/123",
+        "icon": "person",
+        "label": "Mike Ly",
+      },
+    ]
+  }
+  onLogoutIntent={[Function]}
+  renderLink={[Function]}
+  settingsLinks={
+    Array [
+      Object {
+        "href": "#settings",
+        "label": "settings.settings_text",
+      },
+    ]
+  }
+  userLabel="United Kingdom"
+  userName="Matey Boy"
+>
+  <div>
+    App wrapper
+  </div>
+  <Connect(AgentAppPreferences)
+    isOpen={false}
+    onClose={[Function]}
+  />
+</AppLayout>
+`;

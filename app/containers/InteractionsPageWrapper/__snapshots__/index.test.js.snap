@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InteractionsPageWrapper container renders as expected 1`] = `
+<Connect(withRouter(AppWrapper))
+  isError={false}
+>
+  <Connect(AppBanner) />
+  Child
+</Connect(withRouter(AppWrapper))>
+`;

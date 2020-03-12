@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Page container renders as expected 1`] = `
+<Fragment>
+  <Head>
+    <link
+      href="asset-path"
+      rel="shortcut icon"
+      type="image/x-icon"
+    />
+    <title>
+      Agent Support
+    </title>
+    <link
+      color="#7a7a7a"
+      href="asset-path"
+      rel="mask-icon"
+    />
+    <meta
+      content="#7a7a7a"
+      name="theme-color"
+    />
+  </Head>
+  Child
+</Fragment>
+`;
