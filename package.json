@@ -33,7 +33,7 @@
     "lodash": "4.17.13",
     "moment-timezone": "0.5.26",
     "morgan": "1.9.1",
-    "next": "^9.1.5",
+    "next": "^9.3.2",
     "next-compose-plugins": "^2.2.0",
     "postcss-loader": "2.1.6",
     "prismic-dom": "2.1.0",
