@@ -30,7 +30,7 @@
     "humanize-duration": "3.20.1",
     "isomorphic-fetch": "2.2.1",
     "jed": "1.1.1",
-    "lodash": "4.17.13",
+    "lodash": "4.17.19",
     "moment-timezone": "0.5.26",
     "morgan": "1.9.1",
     "next": "^9.1.5",
