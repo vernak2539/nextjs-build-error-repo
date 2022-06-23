@@ -80,7 +80,7 @@
     "jest": "^24.9.0",
     "jest-prop-type-error": "^1.1.0",
     "jest-watch-typeahead": "^0.4.0",
-    "jsdom": "15.2.0",
+    "jsdom": "16.5.0",
     "jsdom-global": "3.0.2",
     "nightwatch": "^1.1.13",
     "nock": "9.0.22",
